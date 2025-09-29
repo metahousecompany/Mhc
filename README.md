@@ -1,0 +1,125 @@
+▎Metahouse White Paper
+
+▎Introduction
+
+In today's world, technology is rapidly evolving, and the concept of the metaverse has emerged as one of the newest and most exciting areas in this field. Metahouse, a startup in the metaverse sector, was established with the goal of becoming the largest company in this domain by 2030. In July 2022, the company published an impressive white paper in California that outlines its objectives and future projects.
+
+Metahouse is driven by a strong technical team with expertise in blockchain, seeking creative ideas that can fundamentally change human life in the coming years. The company has stated that it envisions a world without technological borders, and all its ongoing projects align with this vision.
+
+▎Vision
+
+Metahouse aims to create a world where individuals from anywhere can easily access various technologies and services. The company believes that by leveraging blockchain technology and the metaverse, geographical boundaries can be transcended, providing unique and new experiences for users.
+
+▎Projects
+
+Here are detailed descriptions of each of Metahouse's projects:
+
+▎1. Aquarius High-Speed Blockchain
+
+The Aquarius blockchain is designed as the main infrastructure of Metahouse. This blockchain has been developed to offer higher speed, scalability, and security compared to existing blockchains. Key features include:
+
+• Transaction Speed: Aquarius can process thousands of transactions per second, which is essential for metaverse applications.
+
+  
+• Low Costs: Transaction fees on this blockchain have been minimized so that users can utilize services without worrying about additional costs.
+
+  
+• High Security: The use of advanced cryptographic protocols helps maintain the security of users' information and assets.
+
+  
+• Revenue Distribution: Upon the launch of the blockchain, Metahouse plans to be the first company in the world to distribute 10% of the blockchain's revenue and all system project revenues monthly among MHC token holders. In other words, by holding MHC tokens, users can receive a stable monthly income.
+
+This unique feature provides holders with greater motivation to retain their tokens and contributes to creating a sustainable and thriving ecosystem.
+
+▎2. Meta Blockchain University
+
+This university is designed as the world's first metaverse university, aiming to educate and train a new generation of blockchain professionals. Features of this university include:
+
+• Diverse Educational Courses: Offering courses in various fields such as blockchain, software development, artificial intelligence, and other related areas.
+
+  
+• Recognized Certification: Students can obtain a globally recognized certificate upon completing their courses.
+
+  
+• Interactive Platform: Students can interact live with their professors and classmates, experiencing real online learning.
+
+▎3. Meta Tourism
+
+The Meta Tourism project allows users to experience travel to tourist attractions from their homes using virtual reality technology. Features include:
+
+• Virtual Tours: Users can virtually visit famous historical and natural sites.
+
+  
+• Interaction with Other Travelers: Users can participate in group tours and interact with other users from around the world.
+
+  
+• Ticket Purchase with MHC Tokens: Users can purchase travel tickets using MHC tokens.
+
+▎4. Meta Astronomy
+
+This project enables users to virtually travel to planets and galaxies. Features include:
+▎5. Meta Sports
+
+The Meta Sports project enables users to participate virtually in major sporting events. Features include:
+
+• Live Event Streaming: Users can watch sporting events live, experiencing an immersive environment that closely resembles reality.
+
+• Interaction with Athletes: This project allows for conversations with athletes and sports analysts.
+
+• Ticket Purchases with MHC Token: Users can purchase event tickets using the MHC token.
+
+▎6. Meta Entertainment City
+
+Meta Entertainment City is a virtual space that offers recreational and entertainment opportunities for users. Features include:
+
+• Entertainment Attractions: Users can visit amusement parks, cinemas, and concerts.
+
+• Buying and Selling Goods: This city allows users to purchase various goods and services.
+
+• Payments with MHC Token: All transactions in this city will be conducted using the MHC token.
+
+▎7. Meta Shopping
+
+This project allows users to shop in a three-dimensional environment. Features include:
+
+• Virtual Stores: Users can explore different brands and view products.
+
+• Interactive Shopping Experience: This platform facilitates interaction with sellers and other buyers.
+
+• Easy Payments: Users can make their purchases using the MHC token.
+
+▎8. Meta GameFi
+
+The Meta GameFi project enables users to earn income through three-dimensional games. Features include:
+
+• Engaging Games: Offering games that are not only entertaining but also provide earning opportunities.
+
+• Financial Transactions: All in-game transactions will be conducted using the MHC token.
+
+• Rewards and Incentives: Users can receive cash and non-cash prizes by participating in competitions.
+
+▎9. Meta Medical Clinic
+
+This project allows users to receive medical consultations without the need for physical presence. Features include:
+
+• Online Consultations: Users can consult with top medical specialists globally.
+
+• Easy Access: These services are available to individuals anywhere in the world.
+
+• Payments with MHC Token: Consultation fees will be paid using the MHC token.
+
+▎Conclusion
+
+Each of the projects by Metahouse is designed to create a comprehensive and innovative ecosystem that provides unique experiences for users. Given the advancements in technology and the growing inclination of individuals towards digital services, it is anticipated that Metahouse projects will receive widespread acceptance. 
+
+By joining Metahouse, you too can be part of this revolution and experience a unique journey into the metaverse. We aim to create a world without technological boundaries and hope you will accompany us on this path. 
+
+Live the future with Metahouse.
+
+• Virtual Space Travels: Users can experience space travel using virtual reality technology.
+
+  
+• Astronomy Education: This project includes educational content about astronomy and cosmology, helping users gain more knowledge about space.
+
+  
+• Interaction with Scientists: Users can engage in discussions with astronomy experts and ask their questions.
